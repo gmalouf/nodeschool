@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Solutions for work done as part of nodeschool.",
   "main": "index.js",
+  "repository": "git@github.com:gmalouf/nodeschool.git",
   "dependencies": {
     "concat-stream": "^1.4.6",
     "strftime": "^0.8.2",
