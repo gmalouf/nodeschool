@@ -38,10 +38,20 @@
         }
       }
     },
+    "split": {
+      "version": "0.3.1",
+      "from": "split@*",
+      "resolved": "https://registry.npmjs.org/split/-/split-0.3.1.tgz"
+    },
     "strftime": {
       "version": "0.8.2",
       "from": "strftime@*",
       "resolved": "https://registry.npmjs.org/strftime/-/strftime-0.8.2.tgz"
+    },
+    "through": {
+      "version": "2.3.6",
+      "from": "https://registry.npmjs.org/through/-/through-2.3.6.tgz",
+      "resolved": "https://registry.npmjs.org/through/-/through-2.3.6.tgz"
     },
     "through2-map": {
       "version": "1.4.0",
