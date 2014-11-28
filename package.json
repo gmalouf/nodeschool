@@ -5,11 +5,14 @@
   "main": "index.js",
   "repository": "git@github.com:gmalouf/nodeschool.git",
   "dependencies": {
-    "concat-stream": "^1.4.6",
+    "concat-stream": "https://registry.npmjs.org/concat-stream/-/concat-stream-1.4.6.tgz",
+    "request": "^2.48.0",
     "split": "^0.3.1",
     "strftime": "^0.8.2",
     "through": "https://registry.npmjs.org/through/-/through-2.3.6.tgz",
-    "through2-map": "^1.4.0"
+    "through2-map": "^1.4.0",
+    "trumpet": "^1.7.0",
+    "websocket-stream": "^1.1.0"
   },
   "devDependencies": {},
   "scripts": {
