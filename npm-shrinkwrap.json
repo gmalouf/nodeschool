@@ -38,6 +38,11 @@
         }
       }
     },
+    "duplexer": {
+      "version": "0.1.1",
+      "from": "duplexer@*",
+      "resolved": "https://registry.npmjs.org/duplexer/-/duplexer-0.1.1.tgz"
+    },
     "request": {
       "version": "2.48.0",
       "from": "request@*",
@@ -205,8 +210,13 @@
     },
     "split": {
       "version": "0.3.1",
-      "from": "split@*",
+      "from": "https://registry.npmjs.org/split/-/split-0.3.1.tgz",
       "resolved": "https://registry.npmjs.org/split/-/split-0.3.1.tgz"
+    },
+    "stream-combiner": {
+      "version": "0.2.1",
+      "from": "stream-combiner@*",
+      "resolved": "https://registry.npmjs.org/stream-combiner/-/stream-combiner-0.2.1.tgz"
     },
     "strftime": {
       "version": "0.8.2",
