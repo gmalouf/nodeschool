@@ -223,6 +223,48 @@
       "from": "strftime@*",
       "resolved": "https://registry.npmjs.org/strftime/-/strftime-0.8.2.tgz"
     },
+    "tar": {
+      "version": "1.0.3",
+      "from": "tar@*",
+      "resolved": "https://registry.npmjs.org/tar/-/tar-1.0.3.tgz",
+      "dependencies": {
+        "block-stream": {
+          "version": "0.0.7",
+          "from": "block-stream@*"
+        },
+        "fstream": {
+          "version": "1.0.3",
+          "from": "fstream@>=1.0.2 <2.0.0",
+          "resolved": "https://registry.npmjs.org/fstream/-/fstream-1.0.3.tgz",
+          "dependencies": {
+            "graceful-fs": {
+              "version": "3.0.5",
+              "from": "graceful-fs@>=3.0.0 <4.0.0",
+              "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-3.0.5.tgz"
+            },
+            "mkdirp": {
+              "version": "0.5.0",
+              "from": "mkdirp@>=0.5.0 >=0.0.0 <1.0.0",
+              "dependencies": {
+                "minimist": {
+                  "version": "0.0.8",
+                  "from": "minimist@0.0.8",
+                  "resolved": "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz"
+                }
+              }
+            },
+            "rimraf": {
+              "version": "2.2.8",
+              "from": "rimraf@>=2.0.0 <3.0.0"
+            }
+          }
+        },
+        "inherits": {
+          "version": "2.0.1",
+          "from": "inherits@>=2.0.0 <3.0.0"
+        }
+      }
+    },
     "through": {
       "version": "2.3.6",
       "from": "https://registry.npmjs.org/through/-/through-2.3.6.tgz",

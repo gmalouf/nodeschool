@@ -11,6 +11,7 @@
     "split": "https://registry.npmjs.org/split/-/split-0.3.1.tgz",
     "stream-combiner": "^0.2.1",
     "strftime": "^0.8.2",
+    "tar": "^1.0.3",
     "through": "https://registry.npmjs.org/through/-/through-2.3.6.tgz",
     "through2-map": "^1.4.0",
     "trumpet": "^1.7.0",
